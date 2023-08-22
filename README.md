@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshBose but you can call me Ishaan :)
 - 👀 I’m interested in Product or UX Design Roles in B2B
-- 🌱 I’m currently finishing up my degree in Cognitive Science at UC San Diego, where I specialized in Design.
+- 🌱 UCSD Alum who recently graduated with a design in Cognitive Science specializing in HCI
 - 📫 How to reach me ishaan.bose@gmail.com or through my website https://ishaanbose.com
 
 <!---
